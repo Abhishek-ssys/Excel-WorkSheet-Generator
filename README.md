@@ -125,5 +125,3 @@ Feel free to fork this repo and submit a PR.
 This project is licensed under the **MIT License**.
 
 ---
-
-👉 Do you also want me to make a **demo GIF / screenshot section** (showing the folder + generated Excel) so visitors instantly get what your project does?
